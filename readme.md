@@ -1,18 +1,8 @@
-# ![Extra Time][banner]
+# Extra Time Frontend 3
 
-This repository can be forked for [**extra time**][et] of [frontend 3][fe3]
-at [**@CMDA**][cmda].
+During the course Frontend 3 I learned a lot about d3. I wasn’t familiar with d3 at all so it was a very educational course.
 
-## TODO
+Because I wasn’t familiar with d3 I had to look everything up on the internet. Below a list of what I looked up on the internet and what I learned of it.
 
-*   [ ] Replace this document in your fork with your own readme!
+*![http://api.jquery.com/append/](http://api.jquery.com/append/) I read information about the append function in d3 because I did not know what it did in my codes. In every example, I checked the append function appeared so I had to understand it. 
 
-[banner]: https://cdn.rawgit.com/cmda-fe3/logo/9fd877f/banner-extra-time.svg
-
-[et]: https://github.com/cmda-fe3/course-17-18/blob/master/participation.md#extra-time
-
-[fe3]: https://github.com/cmda-fe3
-
-[cmda]: https://github.com/cmda
-
-[pages]: https://pages.github.com
